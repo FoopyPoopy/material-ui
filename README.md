@@ -29,6 +29,8 @@
 [![Open Collective backers and sponsors](https://img.shields.io/opencollective/all/mui-org)](https://opencollective.com/mui-org)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/1320/badge)](https://bestpractices.coreinfrastructure.org/projects/1320)
 
+**Note**: When developing a project that **USES** Material UI, any package manager is supported (npm or pnpm). 
+
 </div>
 
 ## Documentation

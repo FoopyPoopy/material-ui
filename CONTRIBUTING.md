@@ -78,7 +78,8 @@ git remote add upstream https://github.com/mui/material-ui.git
 git checkout next
 git pull upstream next
 ```
-
+**Note**: This only applies when contributing to Material UI itself.
+          This is because of the devDependencies for Material UI. 
 4. Install the dependencies with pnpm (yarn or npm aren't supported):
 
 ```bash

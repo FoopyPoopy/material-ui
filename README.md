@@ -33,6 +33,24 @@
 
 </div>
 
+## Quick Start
+
+Note: The following instructions are for installing the Material-UI package when integrating Material-UI into your own app. To run the repository locally for development, please refer to our [Contributing Guide](https://github.com/mui/material-ui/blob/next/CONTRIBUTING.md). 
+
+```
+npm install @mui/material @emotion/react @emotion/styled
+```
+or 
+```
+yarn add @mui/material @emotion/react @emotion/styled
+```
+or 
+```
+pnpm add @mui/material @emotion/react @emotion/styled
+```
+
+All of these commands can also be found on our website's getting started page [https://mui.com/material-ui/getting-started/installation/](https://mui.com/material-ui/getting-started/installation/) for more!
+
 ## Documentation
 
 ### Material UI
